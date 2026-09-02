@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Quantitative Data Files
+data/
+*.parquet
+*.csv
+*.h5
+*.db
+
+# Environment and Credentials
+.env
+.vscode/
+.idea/
