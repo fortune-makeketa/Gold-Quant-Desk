@@ -1,0 +1,4 @@
+project: "Gold Quant Desk"
+broker: "IC Markets"
+symbol: "XAUUSD"
+timeframe: "M15"
