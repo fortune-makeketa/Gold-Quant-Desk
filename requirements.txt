@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==17.0.0
+pyyaml==6.0.1
+MetaTrader5==5.0.45
+requests==2.32.3
